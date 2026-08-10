@@ -105,8 +105,4 @@ days as data quality, model evaluation, and integration findings require.
   models, live inference endpoints, traffic collection, automated response, or
   production-security guarantees yet.
 
-## Current status
 
-**Phase 1 setup only.** The repository layout, virtual-environment conventions,
-and direct analysis dependencies are being established. All functional system
-components and operational automation remain planned work.
